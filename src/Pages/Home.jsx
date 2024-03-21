@@ -3,6 +3,7 @@ import './Home.css';
 import Tree from './Tree.png'
 import { CgProfile } from "react-icons/cg";
 
+
 const Home = () => {
     return (
         <div>
